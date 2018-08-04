@@ -1,0 +1,52 @@
+■Arduino Uno
+
+5V		L1		
+GND		L2
+
+D1
+D2
+D3		L4
+D4
+D5		L5
+D6				
+D7		L6
+D8		L7
+D9		L8
+D10		L10
+D11		L11
+D12		L12
+D13
+
+■Motor Driver
+UM		L3
+VCC		L1
+GND		L2
+AO1		L13
+AO2		L14
+BO2		L15
+BO1		L16
+GND		L2
+PWMA		L4
+AI2		L7
+AI1		L9
+STBY		L10
+BI1		L11
+BI2		L12
+PWMB		L5
+GND		L2
+
+■スイッチ
+A		L1(+4.7KΩ抵抗）
+B		L6	
+C
+
+
+■Motor
+Motor11		L13	
+Morot12		L14
+Motor21		L15
+Motor22		L16
+
+■電池
+PS+		L3
+PS-		L2
